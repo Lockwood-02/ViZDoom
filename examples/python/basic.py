@@ -187,10 +187,10 @@ if __name__ == "__main__":
             # r = game.get_last_reward()
 
             # Prints state's game variables and reward.
-            print(f"State #{n}")
-            print("Game variables:", vars)
-            print("Reward:", r)
-            print("=====================")
+            # print(f"State #{n}")
+            # print("Game variables:", vars)
+            # print("Reward:", r)
+            # print("=====================")
 
             if sleep_time > 0:
                 sleep(sleep_time)
